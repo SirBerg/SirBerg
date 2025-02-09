@@ -4,3 +4,4 @@ Thanks for checking out my Profile! This is just my hobby, I am actually a Syste
 Thanks, bye 👍
 
 [![ASirBerg's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirBerg)](https://github.com/anuraghazra/github-readme-stats)
+[![ASirBerg's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SirBerg&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=SirBerg&layout=compact)
